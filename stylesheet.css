@@ -3,3 +3,20 @@ body {
 	background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Free-Download-Basketball-Court-Wallpaper-PIC-WPC002989.jpg");
 }
 
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
