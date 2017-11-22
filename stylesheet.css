@@ -32,3 +32,8 @@ ul {
 li { 
 	font-size: 16pt;
 }
+button { 
+	font-family: 'Play', sans-serif;
+	width: 50px; 
+	hight: 25px;
+}
